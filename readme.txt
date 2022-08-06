@@ -1,1 +1,1 @@
-misc helpers for atomic blender workflow
+misc helpers for atomic blender workflow.
